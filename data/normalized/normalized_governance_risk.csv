@@ -1,0 +1,73 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action,name,domain,business_criticality
+SIG-00052,enterprise_rag_evaluation_lab,DP-001,rag_trust_score,64.51,75,degraded,high,2026-05-20T21:21:43.491468+00:00,Customer Platform,Investigate and remediate.,customer_360,customer,critical
+SIG-00056,enterprise_rag_evaluation_lab,DP-002,rag_trust_score,99.94,75,healthy,low,2026-05-20T21:21:43.491492+00:00,Finance Analytics,Monitor.,revenue_metrics,finance,critical
+SIG-00060,enterprise_rag_evaluation_lab,DP-003,rag_trust_score,83.95,75,watch,medium,2026-05-20T21:21:43.491516+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00064,enterprise_rag_evaluation_lab,DP-004,rag_trust_score,76.45,75,watch,medium,2026-05-20T21:21:43.491554+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00068,enterprise_rag_evaluation_lab,DP-005,rag_trust_score,70.97,75,watch,medium,2026-05-20T21:21:43.491576+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00072,enterprise_rag_evaluation_lab,DP-006,rag_trust_score,83.9,75,watch,medium,2026-05-20T21:21:43.491598+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00076,enterprise_rag_evaluation_lab,DP-007,rag_trust_score,77.64,75,watch,medium,2026-05-20T21:21:43.491622+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00080,enterprise_rag_evaluation_lab,DP-008,rag_trust_score,82.15,75,watch,medium,2026-05-20T21:21:43.491645+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00084,enterprise_rag_evaluation_lab,DP-009,rag_trust_score,76.92,75,watch,medium,2026-05-20T21:21:43.491669+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00088,enterprise_rag_evaluation_lab,DP-010,rag_trust_score,70.03,75,watch,medium,2026-05-20T21:21:43.491689+00:00,Data Platform,Monitor.,pipeline_reliability_monitoring,operations,critical
+SIG-00092,enterprise_rag_evaluation_lab,DP-011,rag_trust_score,77.72,75,watch,medium,2026-05-20T21:21:43.491713+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00096,enterprise_rag_evaluation_lab,DP-012,rag_trust_score,77.93,75,watch,medium,2026-05-20T21:21:43.491736+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical
+SIG-00193,semantic_metrics_trust_layer,DP-001,semantic_trust_score,71.88,75,watch,medium,2026-05-20T21:21:43.495146+00:00,Customer Platform,Monitor.,customer_360,customer,critical
+SIG-00194,semantic_metrics_trust_layer,DP-001,metric_conflicts,8.19,75,healthy,low,2026-05-20T21:21:43.495154+00:00,Customer Platform,Monitor.,customer_360,customer,critical
+SIG-00197,semantic_metrics_trust_layer,DP-002,semantic_trust_score,66.08,75,degraded,high,2026-05-20T21:21:43.495174+00:00,Finance Analytics,Investigate and remediate.,revenue_metrics,finance,critical
+SIG-00198,semantic_metrics_trust_layer,DP-002,metric_conflicts,15.28,75,healthy,low,2026-05-20T21:21:43.495182+00:00,Finance Analytics,Monitor.,revenue_metrics,finance,critical
+SIG-00201,semantic_metrics_trust_layer,DP-003,semantic_trust_score,88.46,75,healthy,low,2026-05-20T21:21:43.495201+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00202,semantic_metrics_trust_layer,DP-003,metric_conflicts,21.22,75,healthy,low,2026-05-20T21:21:43.495207+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00205,semantic_metrics_trust_layer,DP-004,semantic_trust_score,84.91,75,watch,medium,2026-05-20T21:21:43.495225+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00206,semantic_metrics_trust_layer,DP-004,metric_conflicts,4.48,75,healthy,low,2026-05-20T21:21:43.495230+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00209,semantic_metrics_trust_layer,DP-005,semantic_trust_score,100.0,75,healthy,low,2026-05-20T21:21:43.495247+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00210,semantic_metrics_trust_layer,DP-005,metric_conflicts,8.64,75,healthy,low,2026-05-20T21:21:43.495252+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00213,semantic_metrics_trust_layer,DP-006,semantic_trust_score,74.91,75,watch,medium,2026-05-20T21:21:43.495277+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00214,semantic_metrics_trust_layer,DP-006,metric_conflicts,45.71,75,watch,medium,2026-05-20T21:21:43.495282+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00217,semantic_metrics_trust_layer,DP-007,semantic_trust_score,56.23,75,degraded,high,2026-05-20T21:21:43.495299+00:00,AI Governance,Investigate and remediate.,ai_governance_gateway,governance,critical
+SIG-00218,semantic_metrics_trust_layer,DP-007,metric_conflicts,4.88,75,healthy,low,2026-05-20T21:21:43.495304+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00221,semantic_metrics_trust_layer,DP-008,semantic_trust_score,80.87,75,watch,medium,2026-05-20T21:21:43.495321+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00222,semantic_metrics_trust_layer,DP-008,metric_conflicts,62.33,75,degraded,high,2026-05-20T21:21:43.495330+00:00,Analytics Engineering,Investigate and remediate.,semantic_metrics_layer,governance,critical
+SIG-00225,semantic_metrics_trust_layer,DP-009,semantic_trust_score,100.0,75,healthy,low,2026-05-20T21:21:43.495344+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00226,semantic_metrics_trust_layer,DP-009,metric_conflicts,2.91,75,healthy,low,2026-05-20T21:21:43.495352+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00229,semantic_metrics_trust_layer,DP-010,semantic_trust_score,100.0,75,healthy,low,2026-05-20T21:21:43.495366+00:00,Data Platform,Monitor.,pipeline_reliability_monitoring,operations,critical
+SIG-00230,semantic_metrics_trust_layer,DP-010,metric_conflicts,19.58,75,healthy,low,2026-05-20T21:21:43.495374+00:00,Data Platform,Monitor.,pipeline_reliability_monitoring,operations,critical
+SIG-00233,semantic_metrics_trust_layer,DP-011,semantic_trust_score,77.49,75,watch,medium,2026-05-20T21:21:43.495388+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00234,semantic_metrics_trust_layer,DP-011,metric_conflicts,0.0,75,healthy,low,2026-05-20T21:21:43.495393+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00237,semantic_metrics_trust_layer,DP-012,semantic_trust_score,84.79,75,watch,medium,2026-05-20T21:21:43.495407+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical
+SIG-00238,semantic_metrics_trust_layer,DP-012,metric_conflicts,42.23,75,watch,medium,2026-05-20T21:21:43.495416+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical
+SIG-00241,ai_data_governance_gateway,DP-001,governance_risk_score,24.0,75,healthy,low,2026-05-20T21:21:43.496268+00:00,Customer Platform,Monitor.,customer_360,customer,critical
+SIG-00242,ai_data_governance_gateway,DP-001,policy_violations,29.7,75,watch,medium,2026-05-20T21:21:43.496275+00:00,Customer Platform,Monitor.,customer_360,customer,critical
+SIG-00243,ai_data_governance_gateway,DP-001,least_privilege_score,80.83,75,watch,medium,2026-05-20T21:21:43.496281+00:00,Customer Platform,Monitor.,customer_360,customer,critical
+SIG-00245,ai_data_governance_gateway,DP-002,governance_risk_score,30.95,75,watch,medium,2026-05-20T21:21:43.496296+00:00,Finance Analytics,Monitor.,revenue_metrics,finance,critical
+SIG-00246,ai_data_governance_gateway,DP-002,policy_violations,3.98,75,healthy,low,2026-05-20T21:21:43.496301+00:00,Finance Analytics,Monitor.,revenue_metrics,finance,critical
+SIG-00247,ai_data_governance_gateway,DP-002,least_privilege_score,96.29,75,healthy,low,2026-05-20T21:21:43.496306+00:00,Finance Analytics,Monitor.,revenue_metrics,finance,critical
+SIG-00249,ai_data_governance_gateway,DP-003,governance_risk_score,0.0,75,healthy,low,2026-05-20T21:21:43.496316+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00250,ai_data_governance_gateway,DP-003,policy_violations,32.18,75,watch,medium,2026-05-20T21:21:43.496322+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00251,ai_data_governance_gateway,DP-003,least_privilege_score,68.67,75,degraded,high,2026-05-20T21:21:43.496326+00:00,Fraud MLOps,Investigate and remediate.,fraud_detection_features,risk,critical
+SIG-00253,ai_data_governance_gateway,DP-004,governance_risk_score,24.94,75,healthy,low,2026-05-20T21:21:43.496336+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00254,ai_data_governance_gateway,DP-004,policy_violations,22.14,75,healthy,low,2026-05-20T21:21:43.496341+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00255,ai_data_governance_gateway,DP-004,least_privilege_score,78.98,75,watch,medium,2026-05-20T21:21:43.496348+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00257,ai_data_governance_gateway,DP-005,governance_risk_score,0.0,75,healthy,low,2026-05-20T21:21:43.496359+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00258,ai_data_governance_gateway,DP-005,policy_violations,27.18,75,watch,medium,2026-05-20T21:21:43.496364+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00259,ai_data_governance_gateway,DP-005,least_privilege_score,85.55,75,healthy,low,2026-05-20T21:21:43.496368+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00261,ai_data_governance_gateway,DP-006,governance_risk_score,29.9,75,watch,medium,2026-05-20T21:21:43.496378+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00262,ai_data_governance_gateway,DP-006,policy_violations,0.0,75,healthy,low,2026-05-20T21:21:43.496383+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00263,ai_data_governance_gateway,DP-006,least_privilege_score,92.37,75,healthy,low,2026-05-20T21:21:43.496390+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00265,ai_data_governance_gateway,DP-007,governance_risk_score,5.05,75,healthy,low,2026-05-20T21:21:43.496401+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00266,ai_data_governance_gateway,DP-007,policy_violations,47.4,75,watch,medium,2026-05-20T21:21:43.496408+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00267,ai_data_governance_gateway,DP-007,least_privilege_score,88.99,75,healthy,low,2026-05-20T21:21:43.496413+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00269,ai_data_governance_gateway,DP-008,governance_risk_score,31.9,75,watch,medium,2026-05-20T21:21:43.496423+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00270,ai_data_governance_gateway,DP-008,policy_violations,31.9,75,watch,medium,2026-05-20T21:21:43.496428+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00271,ai_data_governance_gateway,DP-008,least_privilege_score,91.94,75,healthy,low,2026-05-20T21:21:43.496432+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00273,ai_data_governance_gateway,DP-009,governance_risk_score,11.45,75,healthy,low,2026-05-20T21:21:43.496443+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00274,ai_data_governance_gateway,DP-009,policy_violations,2.79,75,healthy,low,2026-05-20T21:21:43.496448+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00275,ai_data_governance_gateway,DP-009,least_privilege_score,91.39,75,healthy,low,2026-05-20T21:21:43.496452+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00277,ai_data_governance_gateway,DP-010,governance_risk_score,37.52,75,watch,medium,2026-05-20T21:21:43.496467+00:00,Data Platform,Monitor.,pipeline_reliability_monitoring,operations,critical
+SIG-00278,ai_data_governance_gateway,DP-010,policy_violations,37.15,75,watch,medium,2026-05-20T21:21:43.496474+00:00,Data Platform,Monitor.,pipeline_reliability_monitoring,operations,critical
+SIG-00279,ai_data_governance_gateway,DP-010,least_privilege_score,63.14,75,degraded,high,2026-05-20T21:21:43.496479+00:00,Data Platform,Investigate and remediate.,pipeline_reliability_monitoring,operations,critical
+SIG-00281,ai_data_governance_gateway,DP-011,governance_risk_score,14.67,75,healthy,low,2026-05-20T21:21:43.496489+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00282,ai_data_governance_gateway,DP-011,policy_violations,35.48,75,watch,medium,2026-05-20T21:21:43.496494+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00283,ai_data_governance_gateway,DP-011,least_privilege_score,73.61,75,watch,medium,2026-05-20T21:21:43.496498+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00285,ai_data_governance_gateway,DP-012,governance_risk_score,2.1,75,healthy,low,2026-05-20T21:21:43.496509+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical
+SIG-00286,ai_data_governance_gateway,DP-012,policy_violations,29.62,75,watch,medium,2026-05-20T21:21:43.496517+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical
+SIG-00287,ai_data_governance_gateway,DP-012,least_privilege_score,95.86,75,healthy,low,2026-05-20T21:21:43.496521+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical

@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "total_products": 12,
+    "ai_ready_products": 4,
+    "average_ai_readiness_score": 72.56
+  },
+  "products": [
+    {
+      "data_product_id": "DP-001",
+      "name": "customer_360",
+      "domain": "customer",
+      "ai_readiness_score": 75.9,
+      "ai_ready_status": "ready"
+    },
+    {
+      "data_product_id": "DP-002",
+      "name": "revenue_metrics",
+      "domain": "finance",
+      "ai_readiness_score": 72.84,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-003",
+      "name": "fraud_detection_features",
+      "domain": "risk",
+      "ai_readiness_score": 76.54,
+      "ai_ready_status": "ready"
+    },
+    {
+      "data_product_id": "DP-004",
+      "name": "payment_risk_scoring",
+      "domain": "risk",
+      "ai_readiness_score": 74.16,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-005",
+      "name": "enterprise_rag_search",
+      "domain": "ai_platform",
+      "ai_readiness_score": 68.27,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-006",
+      "name": "support_intelligence",
+      "domain": "operations",
+      "ai_readiness_score": 68.61,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-007",
+      "name": "ai_governance_gateway",
+      "domain": "governance",
+      "ai_readiness_score": 70.58,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-008",
+      "name": "semantic_metrics_layer",
+      "domain": "governance",
+      "ai_readiness_score": 73.64,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-009",
+      "name": "data_quality_certification",
+      "domain": "governance",
+      "ai_readiness_score": 76.31,
+      "ai_ready_status": "ready"
+    },
+    {
+      "data_product_id": "DP-010",
+      "name": "pipeline_reliability_monitoring",
+      "domain": "operations",
+      "ai_readiness_score": 67.32,
+      "ai_ready_status": "not_ready"
+    },
+    {
+      "data_product_id": "DP-011",
+      "name": "supply_chain_risk_monitoring",
+      "domain": "operations",
+      "ai_readiness_score": 76.01,
+      "ai_ready_status": "ready"
+    },
+    {
+      "data_product_id": "DP-012",
+      "name": "executive_reporting_mart",
+      "domain": "executive",
+      "ai_readiness_score": 70.57,
+      "ai_ready_status": "not_ready"
+    }
+  ]
+}

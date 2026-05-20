@@ -1,0 +1,496 @@
+{
+  "nodes": [
+    {
+      "node_id": "data_quality_command_center",
+      "label": "data_quality_command_center",
+      "node_type": "system"
+    },
+    {
+      "node_id": "enterprise_rag_evaluation_lab",
+      "label": "enterprise_rag_evaluation_lab",
+      "node_type": "system"
+    },
+    {
+      "node_id": "payments_fraud_feature_store_mlops",
+      "label": "payments_fraud_feature_store_mlops",
+      "node_type": "system"
+    },
+    {
+      "node_id": "pipeline_reliability_incident_lab",
+      "label": "pipeline_reliability_incident_lab",
+      "node_type": "system"
+    },
+    {
+      "node_id": "semantic_metrics_trust_layer",
+      "label": "semantic_metrics_trust_layer",
+      "node_type": "system"
+    },
+    {
+      "node_id": "ai_data_governance_gateway",
+      "label": "ai_data_governance_gateway",
+      "node_type": "system"
+    },
+    {
+      "node_id": "DP-001",
+      "label": "customer_360",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-002",
+      "label": "revenue_metrics",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-003",
+      "label": "fraud_detection_features",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-004",
+      "label": "payment_risk_scoring",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-005",
+      "label": "enterprise_rag_search",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-006",
+      "label": "support_intelligence",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-007",
+      "label": "ai_governance_gateway",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-008",
+      "label": "semantic_metrics_layer",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-009",
+      "label": "data_quality_certification",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-010",
+      "label": "pipeline_reliability_monitoring",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-011",
+      "label": "supply_chain_risk_monitoring",
+      "node_type": "data_product"
+    },
+    {
+      "node_id": "DP-012",
+      "label": "executive_reporting_mart",
+      "node_type": "data_product"
+    }
+  ],
+  "edges": [
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-001",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-002",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-003",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-004",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-005",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-006",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-007",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-008",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-009",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-010",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-011",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "data_quality_command_center",
+      "target": "DP-012",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-001",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-002",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-003",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-004",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-005",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-006",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-007",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-008",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-009",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-010",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-011",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "enterprise_rag_evaluation_lab",
+      "target": "DP-012",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-001",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-002",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-003",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-004",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-005",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-006",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-007",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-008",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-009",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-010",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-011",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "payments_fraud_feature_store_mlops",
+      "target": "DP-012",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-001",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-002",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-003",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-004",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-005",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-006",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-007",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-008",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-009",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-010",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-011",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "pipeline_reliability_incident_lab",
+      "target": "DP-012",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-001",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-002",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-003",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-004",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-005",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-006",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-007",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-008",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-009",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-010",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-011",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "semantic_metrics_trust_layer",
+      "target": "DP-012",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-001",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-002",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-003",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-004",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-005",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-006",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-007",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-008",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-009",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-010",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-011",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "ai_data_governance_gateway",
+      "target": "DP-012",
+      "relationship": "emits_signal_for"
+    },
+    {
+      "source": "INC-001",
+      "target": "DP-008",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-002",
+      "target": "DP-005",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-003",
+      "target": "DP-003",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-004",
+      "target": "DP-012",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-005",
+      "target": "DP-009",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-006",
+      "target": "DP-007",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-007",
+      "target": "DP-008",
+      "relationship": "impacts"
+    },
+    {
+      "source": "INC-008",
+      "target": "DP-004",
+      "relationship": "impacts"
+    }
+  ]
+}

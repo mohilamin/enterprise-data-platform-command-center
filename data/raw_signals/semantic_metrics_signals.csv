@@ -1,0 +1,49 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action
+SIG-00193,semantic_metrics_trust_layer,DP-001,semantic_trust_score,71.88,75,watch,medium,2026-05-20T21:21:43.495146+00:00,Customer Platform,Monitor.
+SIG-00194,semantic_metrics_trust_layer,DP-001,metric_conflicts,8.19,75,healthy,low,2026-05-20T21:21:43.495154+00:00,Customer Platform,Monitor.
+SIG-00195,semantic_metrics_trust_layer,DP-001,lineage_completeness,77.99,75,watch,medium,2026-05-20T21:21:43.495162+00:00,Customer Platform,Monitor.
+SIG-00196,semantic_metrics_trust_layer,DP-001,ai_agent_metric_readiness,92.99,75,healthy,low,2026-05-20T21:21:43.495167+00:00,Customer Platform,Monitor.
+SIG-00197,semantic_metrics_trust_layer,DP-002,semantic_trust_score,66.08,75,degraded,high,2026-05-20T21:21:43.495174+00:00,Finance Analytics,Investigate and remediate.
+SIG-00198,semantic_metrics_trust_layer,DP-002,metric_conflicts,15.28,75,healthy,low,2026-05-20T21:21:43.495182+00:00,Finance Analytics,Monitor.
+SIG-00199,semantic_metrics_trust_layer,DP-002,lineage_completeness,78.07,75,watch,medium,2026-05-20T21:21:43.495187+00:00,Finance Analytics,Monitor.
+SIG-00200,semantic_metrics_trust_layer,DP-002,ai_agent_metric_readiness,94.03,75,healthy,low,2026-05-20T21:21:43.495192+00:00,Finance Analytics,Monitor.
+SIG-00201,semantic_metrics_trust_layer,DP-003,semantic_trust_score,88.46,75,healthy,low,2026-05-20T21:21:43.495201+00:00,Fraud MLOps,Monitor.
+SIG-00202,semantic_metrics_trust_layer,DP-003,metric_conflicts,21.22,75,healthy,low,2026-05-20T21:21:43.495207+00:00,Fraud MLOps,Monitor.
+SIG-00203,semantic_metrics_trust_layer,DP-003,lineage_completeness,73.65,75,watch,medium,2026-05-20T21:21:43.495212+00:00,Fraud MLOps,Monitor.
+SIG-00204,semantic_metrics_trust_layer,DP-003,ai_agent_metric_readiness,79.31,75,watch,medium,2026-05-20T21:21:43.495219+00:00,Fraud MLOps,Monitor.
+SIG-00205,semantic_metrics_trust_layer,DP-004,semantic_trust_score,84.91,75,watch,medium,2026-05-20T21:21:43.495225+00:00,Payments Risk,Monitor.
+SIG-00206,semantic_metrics_trust_layer,DP-004,metric_conflicts,4.48,75,healthy,low,2026-05-20T21:21:43.495230+00:00,Payments Risk,Monitor.
+SIG-00207,semantic_metrics_trust_layer,DP-004,lineage_completeness,83.09,75,watch,medium,2026-05-20T21:21:43.495234+00:00,Payments Risk,Monitor.
+SIG-00208,semantic_metrics_trust_layer,DP-004,ai_agent_metric_readiness,84.74,75,watch,medium,2026-05-20T21:21:43.495241+00:00,Payments Risk,Monitor.
+SIG-00209,semantic_metrics_trust_layer,DP-005,semantic_trust_score,100.0,75,healthy,low,2026-05-20T21:21:43.495247+00:00,GenAI Platform,Monitor.
+SIG-00210,semantic_metrics_trust_layer,DP-005,metric_conflicts,8.64,75,healthy,low,2026-05-20T21:21:43.495252+00:00,GenAI Platform,Monitor.
+SIG-00211,semantic_metrics_trust_layer,DP-005,lineage_completeness,78.55,75,watch,medium,2026-05-20T21:21:43.495259+00:00,GenAI Platform,Monitor.
+SIG-00212,semantic_metrics_trust_layer,DP-005,ai_agent_metric_readiness,64.44,75,degraded,high,2026-05-20T21:21:43.495269+00:00,GenAI Platform,Investigate and remediate.
+SIG-00213,semantic_metrics_trust_layer,DP-006,semantic_trust_score,74.91,75,watch,medium,2026-05-20T21:21:43.495277+00:00,Support Analytics,Monitor.
+SIG-00214,semantic_metrics_trust_layer,DP-006,metric_conflicts,45.71,75,watch,medium,2026-05-20T21:21:43.495282+00:00,Support Analytics,Monitor.
+SIG-00215,semantic_metrics_trust_layer,DP-006,lineage_completeness,73.25,75,watch,medium,2026-05-20T21:21:43.495287+00:00,Support Analytics,Monitor.
+SIG-00216,semantic_metrics_trust_layer,DP-006,ai_agent_metric_readiness,74.15,75,watch,medium,2026-05-20T21:21:43.495294+00:00,Support Analytics,Monitor.
+SIG-00217,semantic_metrics_trust_layer,DP-007,semantic_trust_score,56.23,75,degraded,high,2026-05-20T21:21:43.495299+00:00,AI Governance,Investigate and remediate.
+SIG-00218,semantic_metrics_trust_layer,DP-007,metric_conflicts,4.88,75,healthy,low,2026-05-20T21:21:43.495304+00:00,AI Governance,Monitor.
+SIG-00219,semantic_metrics_trust_layer,DP-007,lineage_completeness,75.65,75,watch,medium,2026-05-20T21:21:43.495311+00:00,AI Governance,Monitor.
+SIG-00220,semantic_metrics_trust_layer,DP-007,ai_agent_metric_readiness,71.48,75,watch,medium,2026-05-20T21:21:43.495316+00:00,AI Governance,Monitor.
+SIG-00221,semantic_metrics_trust_layer,DP-008,semantic_trust_score,80.87,75,watch,medium,2026-05-20T21:21:43.495321+00:00,Analytics Engineering,Monitor.
+SIG-00222,semantic_metrics_trust_layer,DP-008,metric_conflicts,62.33,75,degraded,high,2026-05-20T21:21:43.495330+00:00,Analytics Engineering,Investigate and remediate.
+SIG-00223,semantic_metrics_trust_layer,DP-008,lineage_completeness,66.55,75,degraded,high,2026-05-20T21:21:43.495334+00:00,Analytics Engineering,Investigate and remediate.
+SIG-00224,semantic_metrics_trust_layer,DP-008,ai_agent_metric_readiness,68.84,75,degraded,high,2026-05-20T21:21:43.495339+00:00,Analytics Engineering,Investigate and remediate.
+SIG-00225,semantic_metrics_trust_layer,DP-009,semantic_trust_score,100.0,75,healthy,low,2026-05-20T21:21:43.495344+00:00,Data Quality,Monitor.
+SIG-00226,semantic_metrics_trust_layer,DP-009,metric_conflicts,2.91,75,healthy,low,2026-05-20T21:21:43.495352+00:00,Data Quality,Monitor.
+SIG-00227,semantic_metrics_trust_layer,DP-009,lineage_completeness,77.58,75,watch,medium,2026-05-20T21:21:43.495357+00:00,Data Quality,Monitor.
+SIG-00228,semantic_metrics_trust_layer,DP-009,ai_agent_metric_readiness,86.1,75,healthy,low,2026-05-20T21:21:43.495361+00:00,Data Quality,Monitor.
+SIG-00229,semantic_metrics_trust_layer,DP-010,semantic_trust_score,100.0,75,healthy,low,2026-05-20T21:21:43.495366+00:00,Data Platform,Monitor.
+SIG-00230,semantic_metrics_trust_layer,DP-010,metric_conflicts,19.58,75,healthy,low,2026-05-20T21:21:43.495374+00:00,Data Platform,Monitor.
+SIG-00231,semantic_metrics_trust_layer,DP-010,lineage_completeness,91.33,75,healthy,low,2026-05-20T21:21:43.495379+00:00,Data Platform,Monitor.
+SIG-00232,semantic_metrics_trust_layer,DP-010,ai_agent_metric_readiness,87.22,75,healthy,low,2026-05-20T21:21:43.495383+00:00,Data Platform,Monitor.
+SIG-00233,semantic_metrics_trust_layer,DP-011,semantic_trust_score,77.49,75,watch,medium,2026-05-20T21:21:43.495388+00:00,Supply Chain Analytics,Monitor.
+SIG-00234,semantic_metrics_trust_layer,DP-011,metric_conflicts,0.0,75,healthy,low,2026-05-20T21:21:43.495393+00:00,Supply Chain Analytics,Monitor.
+SIG-00235,semantic_metrics_trust_layer,DP-011,lineage_completeness,79.14,75,watch,medium,2026-05-20T21:21:43.495398+00:00,Supply Chain Analytics,Monitor.
+SIG-00236,semantic_metrics_trust_layer,DP-011,ai_agent_metric_readiness,78.8,75,watch,medium,2026-05-20T21:21:43.495402+00:00,Supply Chain Analytics,Monitor.
+SIG-00237,semantic_metrics_trust_layer,DP-012,semantic_trust_score,84.79,75,watch,medium,2026-05-20T21:21:43.495407+00:00,Executive Analytics,Monitor.
+SIG-00238,semantic_metrics_trust_layer,DP-012,metric_conflicts,42.23,75,watch,medium,2026-05-20T21:21:43.495416+00:00,Executive Analytics,Monitor.
+SIG-00239,semantic_metrics_trust_layer,DP-012,lineage_completeness,83.87,75,watch,medium,2026-05-20T21:21:43.495420+00:00,Executive Analytics,Monitor.
+SIG-00240,semantic_metrics_trust_layer,DP-012,ai_agent_metric_readiness,86.22,75,healthy,low,2026-05-20T21:21:43.495425+00:00,Executive Analytics,Monitor.

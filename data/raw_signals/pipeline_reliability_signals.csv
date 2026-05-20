@@ -1,0 +1,49 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action
+SIG-00145,pipeline_reliability_incident_lab,DP-001,reliability_score,83.56,75,watch,medium,2026-05-20T21:21:43.494020+00:00,Customer Platform,Monitor.
+SIG-00146,pipeline_reliability_incident_lab,DP-001,sla_compliance,93.79,75,healthy,low,2026-05-20T21:21:43.494027+00:00,Customer Platform,Monitor.
+SIG-00147,pipeline_reliability_incident_lab,DP-001,schema_drift_count,76.01,75,critical,critical,2026-05-20T21:21:43.494033+00:00,Customer Platform,Investigate and remediate.
+SIG-00148,pipeline_reliability_incident_lab,DP-001,backfill_safety,67.78,75,degraded,high,2026-05-20T21:21:43.494038+00:00,Customer Platform,Investigate and remediate.
+SIG-00149,pipeline_reliability_incident_lab,DP-002,reliability_score,70.42,75,watch,medium,2026-05-20T21:21:43.494044+00:00,Finance Analytics,Monitor.
+SIG-00150,pipeline_reliability_incident_lab,DP-002,sla_compliance,73.3,75,watch,medium,2026-05-20T21:21:43.494049+00:00,Finance Analytics,Monitor.
+SIG-00151,pipeline_reliability_incident_lab,DP-002,schema_drift_count,100.0,75,critical,critical,2026-05-20T21:21:43.494053+00:00,Finance Analytics,Investigate and remediate.
+SIG-00152,pipeline_reliability_incident_lab,DP-002,backfill_safety,72.14,75,watch,medium,2026-05-20T21:21:43.494058+00:00,Finance Analytics,Monitor.
+SIG-00153,pipeline_reliability_incident_lab,DP-003,reliability_score,92.06,75,healthy,low,2026-05-20T21:21:43.494063+00:00,Fraud MLOps,Monitor.
+SIG-00154,pipeline_reliability_incident_lab,DP-003,sla_compliance,71.16,75,watch,medium,2026-05-20T21:21:43.494068+00:00,Fraud MLOps,Monitor.
+SIG-00155,pipeline_reliability_incident_lab,DP-003,schema_drift_count,93.18,75,critical,critical,2026-05-20T21:21:43.494072+00:00,Fraud MLOps,Investigate and remediate.
+SIG-00156,pipeline_reliability_incident_lab,DP-003,backfill_safety,86.62,75,healthy,low,2026-05-20T21:21:43.494077+00:00,Fraud MLOps,Monitor.
+SIG-00157,pipeline_reliability_incident_lab,DP-004,reliability_score,80.12,75,watch,medium,2026-05-20T21:21:43.494085+00:00,Payments Risk,Monitor.
+SIG-00158,pipeline_reliability_incident_lab,DP-004,sla_compliance,81.51,75,watch,medium,2026-05-20T21:21:43.494089+00:00,Payments Risk,Monitor.
+SIG-00159,pipeline_reliability_incident_lab,DP-004,schema_drift_count,74.14,75,degraded,high,2026-05-20T21:21:43.494094+00:00,Payments Risk,Investigate and remediate.
+SIG-00160,pipeline_reliability_incident_lab,DP-004,backfill_safety,87.35,75,healthy,low,2026-05-20T21:21:43.494098+00:00,Payments Risk,Monitor.
+SIG-00161,pipeline_reliability_incident_lab,DP-005,reliability_score,76.54,75,watch,medium,2026-05-20T21:21:43.494104+00:00,GenAI Platform,Monitor.
+SIG-00162,pipeline_reliability_incident_lab,DP-005,sla_compliance,67.29,75,degraded,high,2026-05-20T21:21:43.494111+00:00,GenAI Platform,Investigate and remediate.
+SIG-00163,pipeline_reliability_incident_lab,DP-005,schema_drift_count,66.66,75,degraded,high,2026-05-20T21:21:43.494116+00:00,GenAI Platform,Investigate and remediate.
+SIG-00164,pipeline_reliability_incident_lab,DP-005,backfill_safety,84.07,75,watch,medium,2026-05-20T21:21:43.494120+00:00,GenAI Platform,Monitor.
+SIG-00165,pipeline_reliability_incident_lab,DP-006,reliability_score,100.0,75,healthy,low,2026-05-20T21:21:43.494129+00:00,Support Analytics,Monitor.
+SIG-00166,pipeline_reliability_incident_lab,DP-006,sla_compliance,83.92,75,watch,medium,2026-05-20T21:21:43.494133+00:00,Support Analytics,Monitor.
+SIG-00167,pipeline_reliability_incident_lab,DP-006,schema_drift_count,80.58,75,critical,critical,2026-05-20T21:21:43.494138+00:00,Support Analytics,Investigate and remediate.
+SIG-00168,pipeline_reliability_incident_lab,DP-006,backfill_safety,85.43,75,healthy,low,2026-05-20T21:21:43.494146+00:00,Support Analytics,Monitor.
+SIG-00169,pipeline_reliability_incident_lab,DP-007,reliability_score,97.67,75,healthy,low,2026-05-20T21:21:43.494151+00:00,AI Governance,Monitor.
+SIG-00170,pipeline_reliability_incident_lab,DP-007,sla_compliance,84.63,75,watch,medium,2026-05-20T21:21:43.494156+00:00,AI Governance,Monitor.
+SIG-00171,pipeline_reliability_incident_lab,DP-007,schema_drift_count,77.07,75,critical,critical,2026-05-20T21:21:43.494160+00:00,AI Governance,Investigate and remediate.
+SIG-00172,pipeline_reliability_incident_lab,DP-007,backfill_safety,95.28,75,healthy,low,2026-05-20T21:21:43.494165+00:00,AI Governance,Monitor.
+SIG-00173,pipeline_reliability_incident_lab,DP-008,reliability_score,87.15,75,healthy,low,2026-05-20T21:21:43.494170+00:00,Analytics Engineering,Monitor.
+SIG-00174,pipeline_reliability_incident_lab,DP-008,sla_compliance,100.0,75,healthy,low,2026-05-20T21:21:43.494175+00:00,Analytics Engineering,Monitor.
+SIG-00175,pipeline_reliability_incident_lab,DP-008,schema_drift_count,32.76,75,watch,medium,2026-05-20T21:21:43.494183+00:00,Analytics Engineering,Monitor.
+SIG-00176,pipeline_reliability_incident_lab,DP-008,backfill_safety,65.58,75,degraded,high,2026-05-20T21:21:43.494187+00:00,Analytics Engineering,Investigate and remediate.
+SIG-00177,pipeline_reliability_incident_lab,DP-009,reliability_score,100.0,75,healthy,low,2026-05-20T21:21:43.494192+00:00,Data Quality,Monitor.
+SIG-00178,pipeline_reliability_incident_lab,DP-009,sla_compliance,100.0,75,healthy,low,2026-05-20T21:21:43.494200+00:00,Data Quality,Monitor.
+SIG-00179,pipeline_reliability_incident_lab,DP-009,schema_drift_count,79.85,75,critical,critical,2026-05-20T21:21:43.494205+00:00,Data Quality,Investigate and remediate.
+SIG-00180,pipeline_reliability_incident_lab,DP-009,backfill_safety,77.4,75,watch,medium,2026-05-20T21:21:43.494209+00:00,Data Quality,Monitor.
+SIG-00181,pipeline_reliability_incident_lab,DP-010,reliability_score,99.54,75,healthy,low,2026-05-20T21:21:43.494214+00:00,Data Platform,Monitor.
+SIG-00182,pipeline_reliability_incident_lab,DP-010,sla_compliance,68.72,75,degraded,high,2026-05-20T21:21:43.494219+00:00,Data Platform,Investigate and remediate.
+SIG-00183,pipeline_reliability_incident_lab,DP-010,schema_drift_count,71.26,75,degraded,high,2026-05-20T21:21:43.494223+00:00,Data Platform,Investigate and remediate.
+SIG-00184,pipeline_reliability_incident_lab,DP-010,backfill_safety,89.72,75,healthy,low,2026-05-20T21:21:43.494228+00:00,Data Platform,Monitor.
+SIG-00185,pipeline_reliability_incident_lab,DP-011,reliability_score,77.26,75,watch,medium,2026-05-20T21:21:43.494237+00:00,Supply Chain Analytics,Monitor.
+SIG-00186,pipeline_reliability_incident_lab,DP-011,sla_compliance,81.94,75,watch,medium,2026-05-20T21:21:43.494242+00:00,Supply Chain Analytics,Monitor.
+SIG-00187,pipeline_reliability_incident_lab,DP-011,schema_drift_count,80.04,75,critical,critical,2026-05-20T21:21:43.494246+00:00,Supply Chain Analytics,Investigate and remediate.
+SIG-00188,pipeline_reliability_incident_lab,DP-011,backfill_safety,86.05,75,healthy,low,2026-05-20T21:21:43.494251+00:00,Supply Chain Analytics,Monitor.
+SIG-00189,pipeline_reliability_incident_lab,DP-012,reliability_score,98.89,75,healthy,low,2026-05-20T21:21:43.494256+00:00,Executive Analytics,Monitor.
+SIG-00190,pipeline_reliability_incident_lab,DP-012,sla_compliance,83.09,75,watch,medium,2026-05-20T21:21:43.494261+00:00,Executive Analytics,Monitor.
+SIG-00191,pipeline_reliability_incident_lab,DP-012,schema_drift_count,24.5,75,healthy,low,2026-05-20T21:21:43.494266+00:00,Executive Analytics,Monitor.
+SIG-00192,pipeline_reliability_incident_lab,DP-012,backfill_safety,81.42,75,watch,medium,2026-05-20T21:21:43.494271+00:00,Executive Analytics,Monitor.

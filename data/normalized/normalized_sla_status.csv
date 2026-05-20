@@ -1,0 +1,25 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action,name,domain,business_criticality
+SIG-00002,data_quality_command_center,DP-001,freshness_status,69.52,75,degraded,high,2026-05-20T21:21:43.489765+00:00,Customer Platform,Investigate and remediate.,customer_360,customer,critical
+SIG-00006,data_quality_command_center,DP-002,freshness_status,66.37,75,degraded,high,2026-05-20T21:21:43.489789+00:00,Finance Analytics,Investigate and remediate.,revenue_metrics,finance,critical
+SIG-00010,data_quality_command_center,DP-003,freshness_status,71.76,75,watch,medium,2026-05-20T21:21:43.489812+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00014,data_quality_command_center,DP-004,freshness_status,95.53,75,healthy,low,2026-05-20T21:21:43.489832+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00018,data_quality_command_center,DP-005,freshness_status,70.49,75,watch,medium,2026-05-20T21:21:43.489851+00:00,GenAI Platform,Monitor.,enterprise_rag_search,ai_platform,high
+SIG-00022,data_quality_command_center,DP-006,freshness_status,73.83,75,watch,medium,2026-05-20T21:21:43.489870+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00026,data_quality_command_center,DP-007,freshness_status,77.77,75,watch,medium,2026-05-20T21:21:43.489888+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00030,data_quality_command_center,DP-008,freshness_status,87.17,75,healthy,low,2026-05-20T21:21:43.489907+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00034,data_quality_command_center,DP-009,freshness_status,72.23,75,watch,medium,2026-05-20T21:21:43.489927+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00038,data_quality_command_center,DP-010,freshness_status,71.92,75,watch,medium,2026-05-20T21:21:43.489945+00:00,Data Platform,Monitor.,pipeline_reliability_monitoring,operations,critical
+SIG-00042,data_quality_command_center,DP-011,freshness_status,88.52,75,healthy,low,2026-05-20T21:21:43.489964+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00046,data_quality_command_center,DP-012,freshness_status,84.62,75,watch,medium,2026-05-20T21:21:43.489983+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical
+SIG-00146,pipeline_reliability_incident_lab,DP-001,sla_compliance,93.79,75,healthy,low,2026-05-20T21:21:43.494027+00:00,Customer Platform,Monitor.,customer_360,customer,critical
+SIG-00150,pipeline_reliability_incident_lab,DP-002,sla_compliance,73.3,75,watch,medium,2026-05-20T21:21:43.494049+00:00,Finance Analytics,Monitor.,revenue_metrics,finance,critical
+SIG-00154,pipeline_reliability_incident_lab,DP-003,sla_compliance,71.16,75,watch,medium,2026-05-20T21:21:43.494068+00:00,Fraud MLOps,Monitor.,fraud_detection_features,risk,critical
+SIG-00158,pipeline_reliability_incident_lab,DP-004,sla_compliance,81.51,75,watch,medium,2026-05-20T21:21:43.494089+00:00,Payments Risk,Monitor.,payment_risk_scoring,risk,critical
+SIG-00162,pipeline_reliability_incident_lab,DP-005,sla_compliance,67.29,75,degraded,high,2026-05-20T21:21:43.494111+00:00,GenAI Platform,Investigate and remediate.,enterprise_rag_search,ai_platform,high
+SIG-00166,pipeline_reliability_incident_lab,DP-006,sla_compliance,83.92,75,watch,medium,2026-05-20T21:21:43.494133+00:00,Support Analytics,Monitor.,support_intelligence,operations,high
+SIG-00170,pipeline_reliability_incident_lab,DP-007,sla_compliance,84.63,75,watch,medium,2026-05-20T21:21:43.494156+00:00,AI Governance,Monitor.,ai_governance_gateway,governance,critical
+SIG-00174,pipeline_reliability_incident_lab,DP-008,sla_compliance,100.0,75,healthy,low,2026-05-20T21:21:43.494175+00:00,Analytics Engineering,Monitor.,semantic_metrics_layer,governance,critical
+SIG-00178,pipeline_reliability_incident_lab,DP-009,sla_compliance,100.0,75,healthy,low,2026-05-20T21:21:43.494200+00:00,Data Quality,Monitor.,data_quality_certification,governance,critical
+SIG-00182,pipeline_reliability_incident_lab,DP-010,sla_compliance,68.72,75,degraded,high,2026-05-20T21:21:43.494219+00:00,Data Platform,Investigate and remediate.,pipeline_reliability_monitoring,operations,critical
+SIG-00186,pipeline_reliability_incident_lab,DP-011,sla_compliance,81.94,75,watch,medium,2026-05-20T21:21:43.494242+00:00,Supply Chain Analytics,Monitor.,supply_chain_risk_monitoring,operations,medium
+SIG-00190,pipeline_reliability_incident_lab,DP-012,sla_compliance,83.09,75,watch,medium,2026-05-20T21:21:43.494261+00:00,Executive Analytics,Monitor.,executive_reporting_mart,executive,critical

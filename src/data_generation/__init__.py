@@ -1,0 +1,1 @@
+"""Synthetic platform signal generation."""

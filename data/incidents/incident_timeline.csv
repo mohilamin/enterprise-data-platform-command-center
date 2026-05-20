@@ -1,0 +1,9 @@
+incident_id,event_sequence,timestamp,timeline_event_type,description
+INC-001,1,2026-05-20T21:21:43.379573+00:00,correlated,"Correlated ai_agent_using_uncertified_metric across semantic_metrics_trust_layer,ai_data_governance_gateway."
+INC-002,1,2026-05-20T21:21:43.379581+00:00,correlated,"Correlated rag_hallucination_from_stale_documents across enterprise_rag_evaluation_lab,data_quality_command_center."
+INC-003,1,2026-05-20T21:21:43.379583+00:00,correlated,Correlated fraud_model_drift_affecting_risk_scores across payments_fraud_feature_store_mlops.
+INC-004,1,2026-05-20T21:21:43.379585+00:00,correlated,Correlated pipeline_sla_breach_delays_executive_reporting across pipeline_reliability_incident_lab.
+INC-005,1,2026-05-20T21:21:43.379587+00:00,correlated,Correlated data_quality_failure_blocks_ai_consumption across data_quality_command_center.
+INC-006,1,2026-05-20T21:21:43.379588+00:00,correlated,Correlated policy_violation_exposes_restricted_columns across ai_data_governance_gateway.
+INC-007,1,2026-05-20T21:21:43.379590+00:00,correlated,"Correlated schema_drift_breaks_metric_trust across pipeline_reliability_incident_lab,semantic_metrics_trust_layer."
+INC-008,1,2026-05-20T21:21:43.379591+00:00,correlated,Correlated feature_store_quality_drop_impacts_model_score across payments_fraud_feature_store_mlops.

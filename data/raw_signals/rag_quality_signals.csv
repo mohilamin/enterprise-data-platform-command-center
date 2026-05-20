@@ -1,0 +1,49 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action
+SIG-00049,enterprise_rag_evaluation_lab,DP-001,retrieval_accuracy,90.15,75,healthy,low,2026-05-20T21:21:43.491446+00:00,Customer Platform,Monitor.
+SIG-00050,enterprise_rag_evaluation_lab,DP-001,citation_coverage,82.81,75,watch,medium,2026-05-20T21:21:43.491456+00:00,Customer Platform,Monitor.
+SIG-00051,enterprise_rag_evaluation_lab,DP-001,hallucination_risk,35.36,75,watch,medium,2026-05-20T21:21:43.491463+00:00,Customer Platform,Monitor.
+SIG-00052,enterprise_rag_evaluation_lab,DP-001,rag_trust_score,64.51,75,degraded,high,2026-05-20T21:21:43.491468+00:00,Customer Platform,Investigate and remediate.
+SIG-00053,enterprise_rag_evaluation_lab,DP-002,retrieval_accuracy,78.16,75,watch,medium,2026-05-20T21:21:43.491475+00:00,Finance Analytics,Monitor.
+SIG-00054,enterprise_rag_evaluation_lab,DP-002,citation_coverage,76.36,75,watch,medium,2026-05-20T21:21:43.491481+00:00,Finance Analytics,Monitor.
+SIG-00055,enterprise_rag_evaluation_lab,DP-002,hallucination_risk,19.05,75,healthy,low,2026-05-20T21:21:43.491486+00:00,Finance Analytics,Monitor.
+SIG-00056,enterprise_rag_evaluation_lab,DP-002,rag_trust_score,99.94,75,healthy,low,2026-05-20T21:21:43.491492+00:00,Finance Analytics,Monitor.
+SIG-00057,enterprise_rag_evaluation_lab,DP-003,retrieval_accuracy,71.61,75,watch,medium,2026-05-20T21:21:43.491498+00:00,Fraud MLOps,Monitor.
+SIG-00058,enterprise_rag_evaluation_lab,DP-003,citation_coverage,93.62,75,healthy,low,2026-05-20T21:21:43.491503+00:00,Fraud MLOps,Monitor.
+SIG-00059,enterprise_rag_evaluation_lab,DP-003,hallucination_risk,17.97,75,healthy,low,2026-05-20T21:21:43.491508+00:00,Fraud MLOps,Monitor.
+SIG-00060,enterprise_rag_evaluation_lab,DP-003,rag_trust_score,83.95,75,watch,medium,2026-05-20T21:21:43.491516+00:00,Fraud MLOps,Monitor.
+SIG-00061,enterprise_rag_evaluation_lab,DP-004,retrieval_accuracy,89.03,75,healthy,low,2026-05-20T21:21:43.491522+00:00,Payments Risk,Monitor.
+SIG-00062,enterprise_rag_evaluation_lab,DP-004,citation_coverage,90.53,75,healthy,low,2026-05-20T21:21:43.491526+00:00,Payments Risk,Monitor.
+SIG-00063,enterprise_rag_evaluation_lab,DP-004,hallucination_risk,17.72,75,healthy,low,2026-05-20T21:21:43.491548+00:00,Payments Risk,Monitor.
+SIG-00064,enterprise_rag_evaluation_lab,DP-004,rag_trust_score,76.45,75,watch,medium,2026-05-20T21:21:43.491554+00:00,Payments Risk,Monitor.
+SIG-00065,enterprise_rag_evaluation_lab,DP-005,retrieval_accuracy,92.3,75,healthy,low,2026-05-20T21:21:43.491560+00:00,GenAI Platform,Monitor.
+SIG-00066,enterprise_rag_evaluation_lab,DP-005,citation_coverage,79.7,75,watch,medium,2026-05-20T21:21:43.491565+00:00,GenAI Platform,Monitor.
+SIG-00067,enterprise_rag_evaluation_lab,DP-005,hallucination_risk,3.6,75,healthy,low,2026-05-20T21:21:43.491571+00:00,GenAI Platform,Monitor.
+SIG-00068,enterprise_rag_evaluation_lab,DP-005,rag_trust_score,70.97,75,watch,medium,2026-05-20T21:21:43.491576+00:00,GenAI Platform,Monitor.
+SIG-00069,enterprise_rag_evaluation_lab,DP-006,retrieval_accuracy,87.97,75,healthy,low,2026-05-20T21:21:43.491581+00:00,Support Analytics,Monitor.
+SIG-00070,enterprise_rag_evaluation_lab,DP-006,citation_coverage,83.71,75,watch,medium,2026-05-20T21:21:43.491587+00:00,Support Analytics,Monitor.
+SIG-00071,enterprise_rag_evaluation_lab,DP-006,hallucination_risk,16.31,75,healthy,low,2026-05-20T21:21:43.491593+00:00,Support Analytics,Monitor.
+SIG-00072,enterprise_rag_evaluation_lab,DP-006,rag_trust_score,83.9,75,watch,medium,2026-05-20T21:21:43.491598+00:00,Support Analytics,Monitor.
+SIG-00073,enterprise_rag_evaluation_lab,DP-007,retrieval_accuracy,89.51,75,healthy,low,2026-05-20T21:21:43.491604+00:00,AI Governance,Monitor.
+SIG-00074,enterprise_rag_evaluation_lab,DP-007,citation_coverage,78.29,75,watch,medium,2026-05-20T21:21:43.491611+00:00,AI Governance,Monitor.
+SIG-00075,enterprise_rag_evaluation_lab,DP-007,hallucination_risk,12.09,75,healthy,low,2026-05-20T21:21:43.491617+00:00,AI Governance,Monitor.
+SIG-00076,enterprise_rag_evaluation_lab,DP-007,rag_trust_score,77.64,75,watch,medium,2026-05-20T21:21:43.491622+00:00,AI Governance,Monitor.
+SIG-00077,enterprise_rag_evaluation_lab,DP-008,retrieval_accuracy,77.42,75,watch,medium,2026-05-20T21:21:43.491630+00:00,Analytics Engineering,Monitor.
+SIG-00078,enterprise_rag_evaluation_lab,DP-008,citation_coverage,67.65,75,degraded,high,2026-05-20T21:21:43.491635+00:00,Analytics Engineering,Investigate and remediate.
+SIG-00079,enterprise_rag_evaluation_lab,DP-008,hallucination_risk,15.55,75,healthy,low,2026-05-20T21:21:43.491640+00:00,Analytics Engineering,Monitor.
+SIG-00080,enterprise_rag_evaluation_lab,DP-008,rag_trust_score,82.15,75,watch,medium,2026-05-20T21:21:43.491645+00:00,Analytics Engineering,Monitor.
+SIG-00081,enterprise_rag_evaluation_lab,DP-009,retrieval_accuracy,87.77,75,healthy,low,2026-05-20T21:21:43.491654+00:00,Data Quality,Monitor.
+SIG-00082,enterprise_rag_evaluation_lab,DP-009,citation_coverage,87.36,75,healthy,low,2026-05-20T21:21:43.491659+00:00,Data Quality,Monitor.
+SIG-00083,enterprise_rag_evaluation_lab,DP-009,hallucination_risk,22.23,75,healthy,low,2026-05-20T21:21:43.491664+00:00,Data Quality,Monitor.
+SIG-00084,enterprise_rag_evaluation_lab,DP-009,rag_trust_score,76.92,75,watch,medium,2026-05-20T21:21:43.491669+00:00,Data Quality,Monitor.
+SIG-00085,enterprise_rag_evaluation_lab,DP-010,retrieval_accuracy,81.04,75,watch,medium,2026-05-20T21:21:43.491674+00:00,Data Platform,Monitor.
+SIG-00086,enterprise_rag_evaluation_lab,DP-010,citation_coverage,61.75,75,degraded,high,2026-05-20T21:21:43.491679+00:00,Data Platform,Investigate and remediate.
+SIG-00087,enterprise_rag_evaluation_lab,DP-010,hallucination_risk,0.19,75,healthy,low,2026-05-20T21:21:43.491685+00:00,Data Platform,Monitor.
+SIG-00088,enterprise_rag_evaluation_lab,DP-010,rag_trust_score,70.03,75,watch,medium,2026-05-20T21:21:43.491689+00:00,Data Platform,Monitor.
+SIG-00089,enterprise_rag_evaluation_lab,DP-011,retrieval_accuracy,86.8,75,healthy,low,2026-05-20T21:21:43.491695+00:00,Supply Chain Analytics,Monitor.
+SIG-00090,enterprise_rag_evaluation_lab,DP-011,citation_coverage,71.13,75,watch,medium,2026-05-20T21:21:43.491700+00:00,Supply Chain Analytics,Monitor.
+SIG-00091,enterprise_rag_evaluation_lab,DP-011,hallucination_risk,47.39,75,watch,medium,2026-05-20T21:21:43.491708+00:00,Supply Chain Analytics,Monitor.
+SIG-00092,enterprise_rag_evaluation_lab,DP-011,rag_trust_score,77.72,75,watch,medium,2026-05-20T21:21:43.491713+00:00,Supply Chain Analytics,Monitor.
+SIG-00093,enterprise_rag_evaluation_lab,DP-012,retrieval_accuracy,90.85,75,healthy,low,2026-05-20T21:21:43.491718+00:00,Executive Analytics,Monitor.
+SIG-00094,enterprise_rag_evaluation_lab,DP-012,citation_coverage,70.8,75,watch,medium,2026-05-20T21:21:43.491723+00:00,Executive Analytics,Monitor.
+SIG-00095,enterprise_rag_evaluation_lab,DP-012,hallucination_risk,6.9,75,healthy,low,2026-05-20T21:21:43.491731+00:00,Executive Analytics,Monitor.
+SIG-00096,enterprise_rag_evaluation_lab,DP-012,rag_trust_score,77.93,75,watch,medium,2026-05-20T21:21:43.491736+00:00,Executive Analytics,Monitor.

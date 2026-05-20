@@ -1,0 +1,90 @@
+[
+  {
+    "incident_id": "INC-001",
+    "incident_type": "ai_agent_using_uncertified_metric",
+    "systems_involved": "semantic_metrics_trust_layer,ai_data_governance_gateway",
+    "data_product_id": "DP-008",
+    "severity": "high",
+    "status": "contained",
+    "detected_at": "2026-05-20T21:21:43.525249+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-002",
+    "incident_type": "rag_hallucination_from_stale_documents",
+    "systems_involved": "enterprise_rag_evaluation_lab,data_quality_command_center",
+    "data_product_id": "DP-005",
+    "severity": "high",
+    "status": "contained",
+    "detected_at": "2026-05-20T21:21:43.525253+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-003",
+    "incident_type": "fraud_model_drift_affecting_risk_scores",
+    "systems_involved": "payments_fraud_feature_store_mlops",
+    "data_product_id": "DP-003",
+    "severity": "critical",
+    "status": "open",
+    "detected_at": "2026-05-20T21:21:43.525254+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-004",
+    "incident_type": "pipeline_sla_breach_delays_executive_reporting",
+    "systems_involved": "pipeline_reliability_incident_lab",
+    "data_product_id": "DP-012",
+    "severity": "critical",
+    "status": "open",
+    "detected_at": "2026-05-20T21:21:43.525255+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-005",
+    "incident_type": "data_quality_failure_blocks_ai_consumption",
+    "systems_involved": "data_quality_command_center",
+    "data_product_id": "DP-009",
+    "severity": "high",
+    "status": "contained",
+    "detected_at": "2026-05-20T21:21:43.525257+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-006",
+    "incident_type": "policy_violation_exposes_restricted_columns",
+    "systems_involved": "ai_data_governance_gateway",
+    "data_product_id": "DP-007",
+    "severity": "critical",
+    "status": "open",
+    "detected_at": "2026-05-20T21:21:43.525258+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-007",
+    "incident_type": "schema_drift_breaks_metric_trust",
+    "systems_involved": "pipeline_reliability_incident_lab,semantic_metrics_trust_layer",
+    "data_product_id": "DP-008",
+    "severity": "high",
+    "status": "contained",
+    "detected_at": "2026-05-20T21:21:43.525259+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  },
+  {
+    "incident_id": "INC-008",
+    "incident_type": "feature_store_quality_drop_impacts_model_score",
+    "systems_involved": "payments_fraud_feature_store_mlops",
+    "data_product_id": "DP-004",
+    "severity": "high",
+    "status": "contained",
+    "detected_at": "2026-05-20T21:21:43.525260+00:00",
+    "downstream_impact": "executive reporting and AI consumers impacted",
+    "recommended_action": "Escalate to platform owner and remediate upstream signal."
+  }
+]

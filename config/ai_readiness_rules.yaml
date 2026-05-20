@@ -1,0 +1,6 @@
+minimum_health_score: 75
+required_signals:
+  - quality_score
+  - governance_risk_score
+  - semantic_trust_score
+  - reliability_score

@@ -1,0 +1,12 @@
+weights:
+  quality_score: 0.18
+  reliability_score: 0.18
+  governance_risk_score: 0.18
+  ai_readiness_score: 0.18
+  semantic_trust_score: 0.12
+  rag_trust_score: 0.08
+  mlops_health_score: 0.08
+status_thresholds:
+  healthy: 85
+  watch: 70
+  degraded: 50

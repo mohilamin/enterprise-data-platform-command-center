@@ -1,0 +1,49 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action
+SIG-00097,payments_fraud_feature_store_mlops,DP-001,mlops_health_score,92.08,75,healthy,low,2026-05-20T21:21:43.492776+00:00,Customer Platform,Monitor.
+SIG-00098,payments_fraud_feature_store_mlops,DP-001,model_drift,61.27,75,degraded,high,2026-05-20T21:21:43.492787+00:00,Customer Platform,Investigate and remediate.
+SIG-00099,payments_fraud_feature_store_mlops,DP-001,feature_store_quality,87.21,75,healthy,low,2026-05-20T21:21:43.492794+00:00,Customer Platform,Monitor.
+SIG-00100,payments_fraud_feature_store_mlops,DP-001,reason_code_coverage,84.85,75,watch,medium,2026-05-20T21:21:43.492800+00:00,Customer Platform,Monitor.
+SIG-00101,payments_fraud_feature_store_mlops,DP-002,mlops_health_score,74.87,75,watch,medium,2026-05-20T21:21:43.492807+00:00,Finance Analytics,Monitor.
+SIG-00102,payments_fraud_feature_store_mlops,DP-002,model_drift,64.65,75,degraded,high,2026-05-20T21:21:43.492812+00:00,Finance Analytics,Investigate and remediate.
+SIG-00103,payments_fraud_feature_store_mlops,DP-002,feature_store_quality,82.87,75,watch,medium,2026-05-20T21:21:43.492818+00:00,Finance Analytics,Monitor.
+SIG-00104,payments_fraud_feature_store_mlops,DP-002,reason_code_coverage,75.65,75,watch,medium,2026-05-20T21:21:43.492822+00:00,Finance Analytics,Monitor.
+SIG-00105,payments_fraud_feature_store_mlops,DP-003,mlops_health_score,84.79,75,watch,medium,2026-05-20T21:21:43.492829+00:00,Fraud MLOps,Monitor.
+SIG-00106,payments_fraud_feature_store_mlops,DP-003,model_drift,82.26,75,watch,medium,2026-05-20T21:21:43.492834+00:00,Fraud MLOps,Monitor.
+SIG-00107,payments_fraud_feature_store_mlops,DP-003,feature_store_quality,100.0,75,healthy,low,2026-05-20T21:21:43.492839+00:00,Fraud MLOps,Monitor.
+SIG-00108,payments_fraud_feature_store_mlops,DP-003,reason_code_coverage,79.13,75,watch,medium,2026-05-20T21:21:43.492844+00:00,Fraud MLOps,Monitor.
+SIG-00109,payments_fraud_feature_store_mlops,DP-004,mlops_health_score,69.72,75,degraded,high,2026-05-20T21:21:43.492850+00:00,Payments Risk,Investigate and remediate.
+SIG-00110,payments_fraud_feature_store_mlops,DP-004,model_drift,84.15,75,watch,medium,2026-05-20T21:21:43.492855+00:00,Payments Risk,Monitor.
+SIG-00111,payments_fraud_feature_store_mlops,DP-004,feature_store_quality,84.64,75,watch,medium,2026-05-20T21:21:43.492860+00:00,Payments Risk,Monitor.
+SIG-00112,payments_fraud_feature_store_mlops,DP-004,reason_code_coverage,98.31,75,healthy,low,2026-05-20T21:21:43.492864+00:00,Payments Risk,Monitor.
+SIG-00113,payments_fraud_feature_store_mlops,DP-005,mlops_health_score,92.02,75,healthy,low,2026-05-20T21:21:43.492869+00:00,GenAI Platform,Monitor.
+SIG-00114,payments_fraud_feature_store_mlops,DP-005,model_drift,86.28,75,healthy,low,2026-05-20T21:21:43.492874+00:00,GenAI Platform,Monitor.
+SIG-00115,payments_fraud_feature_store_mlops,DP-005,feature_store_quality,99.56,75,healthy,low,2026-05-20T21:21:43.492878+00:00,GenAI Platform,Monitor.
+SIG-00116,payments_fraud_feature_store_mlops,DP-005,reason_code_coverage,67.73,75,degraded,high,2026-05-20T21:21:43.492883+00:00,GenAI Platform,Investigate and remediate.
+SIG-00117,payments_fraud_feature_store_mlops,DP-006,mlops_health_score,74.32,75,watch,medium,2026-05-20T21:21:43.492888+00:00,Support Analytics,Monitor.
+SIG-00118,payments_fraud_feature_store_mlops,DP-006,model_drift,70.88,75,watch,medium,2026-05-20T21:21:43.492893+00:00,Support Analytics,Monitor.
+SIG-00119,payments_fraud_feature_store_mlops,DP-006,feature_store_quality,77.32,75,watch,medium,2026-05-20T21:21:43.492897+00:00,Support Analytics,Monitor.
+SIG-00120,payments_fraud_feature_store_mlops,DP-006,reason_code_coverage,65.48,75,degraded,high,2026-05-20T21:21:43.492902+00:00,Support Analytics,Investigate and remediate.
+SIG-00121,payments_fraud_feature_store_mlops,DP-007,mlops_health_score,89.62,75,healthy,low,2026-05-20T21:21:43.492907+00:00,AI Governance,Monitor.
+SIG-00122,payments_fraud_feature_store_mlops,DP-007,model_drift,79.33,75,watch,medium,2026-05-20T21:21:43.492911+00:00,AI Governance,Monitor.
+SIG-00123,payments_fraud_feature_store_mlops,DP-007,feature_store_quality,64.35,75,degraded,high,2026-05-20T21:21:43.492916+00:00,AI Governance,Investigate and remediate.
+SIG-00124,payments_fraud_feature_store_mlops,DP-007,reason_code_coverage,69.81,75,degraded,high,2026-05-20T21:21:43.492920+00:00,AI Governance,Investigate and remediate.
+SIG-00125,payments_fraud_feature_store_mlops,DP-008,mlops_health_score,85.76,75,healthy,low,2026-05-20T21:21:43.492925+00:00,Analytics Engineering,Monitor.
+SIG-00126,payments_fraud_feature_store_mlops,DP-008,model_drift,92.06,75,healthy,low,2026-05-20T21:21:43.492930+00:00,Analytics Engineering,Monitor.
+SIG-00127,payments_fraud_feature_store_mlops,DP-008,feature_store_quality,100.0,75,healthy,low,2026-05-20T21:21:43.492935+00:00,Analytics Engineering,Monitor.
+SIG-00128,payments_fraud_feature_store_mlops,DP-008,reason_code_coverage,100.0,75,healthy,low,2026-05-20T21:21:43.492939+00:00,Analytics Engineering,Monitor.
+SIG-00129,payments_fraud_feature_store_mlops,DP-009,mlops_health_score,86.97,75,healthy,low,2026-05-20T21:21:43.492944+00:00,Data Quality,Monitor.
+SIG-00130,payments_fraud_feature_store_mlops,DP-009,model_drift,70.13,75,watch,medium,2026-05-20T21:21:43.492949+00:00,Data Quality,Monitor.
+SIG-00131,payments_fraud_feature_store_mlops,DP-009,feature_store_quality,56.42,75,degraded,high,2026-05-20T21:21:43.492953+00:00,Data Quality,Investigate and remediate.
+SIG-00132,payments_fraud_feature_store_mlops,DP-009,reason_code_coverage,85.21,75,healthy,low,2026-05-20T21:21:43.492965+00:00,Data Quality,Monitor.
+SIG-00133,payments_fraud_feature_store_mlops,DP-010,mlops_health_score,72.24,75,watch,medium,2026-05-20T21:21:43.492971+00:00,Data Platform,Monitor.
+SIG-00134,payments_fraud_feature_store_mlops,DP-010,model_drift,77.02,75,watch,medium,2026-05-20T21:21:43.492975+00:00,Data Platform,Monitor.
+SIG-00135,payments_fraud_feature_store_mlops,DP-010,feature_store_quality,74.65,75,watch,medium,2026-05-20T21:21:43.492980+00:00,Data Platform,Monitor.
+SIG-00136,payments_fraud_feature_store_mlops,DP-010,reason_code_coverage,80.31,75,watch,medium,2026-05-20T21:21:43.492984+00:00,Data Platform,Monitor.
+SIG-00137,payments_fraud_feature_store_mlops,DP-011,mlops_health_score,94.79,75,healthy,low,2026-05-20T21:21:43.492989+00:00,Supply Chain Analytics,Monitor.
+SIG-00138,payments_fraud_feature_store_mlops,DP-011,model_drift,83.88,75,watch,medium,2026-05-20T21:21:43.492994+00:00,Supply Chain Analytics,Monitor.
+SIG-00139,payments_fraud_feature_store_mlops,DP-011,feature_store_quality,80.1,75,watch,medium,2026-05-20T21:21:43.492998+00:00,Supply Chain Analytics,Monitor.
+SIG-00140,payments_fraud_feature_store_mlops,DP-011,reason_code_coverage,69.57,75,degraded,high,2026-05-20T21:21:43.493003+00:00,Supply Chain Analytics,Investigate and remediate.
+SIG-00141,payments_fraud_feature_store_mlops,DP-012,mlops_health_score,61.9,75,degraded,high,2026-05-20T21:21:43.493008+00:00,Executive Analytics,Investigate and remediate.
+SIG-00142,payments_fraud_feature_store_mlops,DP-012,model_drift,76.16,75,watch,medium,2026-05-20T21:21:43.493012+00:00,Executive Analytics,Monitor.
+SIG-00143,payments_fraud_feature_store_mlops,DP-012,feature_store_quality,81.35,75,watch,medium,2026-05-20T21:21:43.493017+00:00,Executive Analytics,Monitor.
+SIG-00144,payments_fraud_feature_store_mlops,DP-012,reason_code_coverage,100.0,75,healthy,low,2026-05-20T21:21:43.493021+00:00,Executive Analytics,Monitor.

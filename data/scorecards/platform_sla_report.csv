@@ -1,0 +1,25 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action,sla_met
+SIG-00002,data_quality_command_center,DP-001,freshness_status,69.52,75,degraded,high,2026-05-20T21:21:43.354787+00:00,Customer Platform,Investigate and remediate.,False
+SIG-00006,data_quality_command_center,DP-002,freshness_status,66.37,75,degraded,high,2026-05-20T21:21:43.354811+00:00,Finance Analytics,Investigate and remediate.,False
+SIG-00010,data_quality_command_center,DP-003,freshness_status,71.76,75,watch,medium,2026-05-20T21:21:43.354832+00:00,Fraud MLOps,Monitor.,True
+SIG-00014,data_quality_command_center,DP-004,freshness_status,95.53,75,healthy,low,2026-05-20T21:21:43.354851+00:00,Payments Risk,Monitor.,True
+SIG-00018,data_quality_command_center,DP-005,freshness_status,70.49,75,watch,medium,2026-05-20T21:21:43.354870+00:00,GenAI Platform,Monitor.,True
+SIG-00022,data_quality_command_center,DP-006,freshness_status,73.83,75,watch,medium,2026-05-20T21:21:43.354889+00:00,Support Analytics,Monitor.,True
+SIG-00026,data_quality_command_center,DP-007,freshness_status,77.77,75,watch,medium,2026-05-20T21:21:43.354909+00:00,AI Governance,Monitor.,True
+SIG-00030,data_quality_command_center,DP-008,freshness_status,87.17,75,healthy,low,2026-05-20T21:21:43.354927+00:00,Analytics Engineering,Monitor.,True
+SIG-00034,data_quality_command_center,DP-009,freshness_status,72.23,75,watch,medium,2026-05-20T21:21:43.354946+00:00,Data Quality,Monitor.,True
+SIG-00038,data_quality_command_center,DP-010,freshness_status,71.92,75,watch,medium,2026-05-20T21:21:43.354965+00:00,Data Platform,Monitor.,True
+SIG-00042,data_quality_command_center,DP-011,freshness_status,88.52,75,healthy,low,2026-05-20T21:21:43.354984+00:00,Supply Chain Analytics,Monitor.,True
+SIG-00046,data_quality_command_center,DP-012,freshness_status,84.62,75,watch,medium,2026-05-20T21:21:43.355002+00:00,Executive Analytics,Monitor.,True
+SIG-00146,pipeline_reliability_incident_lab,DP-001,sla_compliance,93.79,75,healthy,low,2026-05-20T21:21:43.357999+00:00,Customer Platform,Monitor.,True
+SIG-00150,pipeline_reliability_incident_lab,DP-002,sla_compliance,73.3,75,watch,medium,2026-05-20T21:21:43.358021+00:00,Finance Analytics,Monitor.,True
+SIG-00154,pipeline_reliability_incident_lab,DP-003,sla_compliance,71.16,75,watch,medium,2026-05-20T21:21:43.358041+00:00,Fraud MLOps,Monitor.,True
+SIG-00158,pipeline_reliability_incident_lab,DP-004,sla_compliance,81.51,75,watch,medium,2026-05-20T21:21:43.358061+00:00,Payments Risk,Monitor.,True
+SIG-00162,pipeline_reliability_incident_lab,DP-005,sla_compliance,67.29,75,degraded,high,2026-05-20T21:21:43.358081+00:00,GenAI Platform,Investigate and remediate.,False
+SIG-00166,pipeline_reliability_incident_lab,DP-006,sla_compliance,83.92,75,watch,medium,2026-05-20T21:21:43.358100+00:00,Support Analytics,Monitor.,True
+SIG-00170,pipeline_reliability_incident_lab,DP-007,sla_compliance,84.63,75,watch,medium,2026-05-20T21:21:43.358119+00:00,AI Governance,Monitor.,True
+SIG-00174,pipeline_reliability_incident_lab,DP-008,sla_compliance,100.0,75,healthy,low,2026-05-20T21:21:43.358138+00:00,Analytics Engineering,Monitor.,True
+SIG-00178,pipeline_reliability_incident_lab,DP-009,sla_compliance,100.0,75,healthy,low,2026-05-20T21:21:43.358158+00:00,Data Quality,Monitor.,True
+SIG-00182,pipeline_reliability_incident_lab,DP-010,sla_compliance,68.72,75,degraded,high,2026-05-20T21:21:43.358177+00:00,Data Platform,Investigate and remediate.,False
+SIG-00186,pipeline_reliability_incident_lab,DP-011,sla_compliance,81.94,75,watch,medium,2026-05-20T21:21:43.358196+00:00,Supply Chain Analytics,Monitor.,True
+SIG-00190,pipeline_reliability_incident_lab,DP-012,sla_compliance,83.09,75,watch,medium,2026-05-20T21:21:43.358215+00:00,Executive Analytics,Monitor.,True

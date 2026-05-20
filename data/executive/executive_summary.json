@@ -1,0 +1,9 @@
+{
+  "platform_health_score": 71.19,
+  "status": "watch",
+  "drivers": "Average data product health.",
+  "recommended_action": "Prioritize degraded products.",
+  "total_data_products": 12,
+  "total_incidents": 8,
+  "critical_incidents": 3
+}

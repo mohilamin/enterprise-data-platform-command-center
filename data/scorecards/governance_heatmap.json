@@ -1,0 +1,37 @@
+[
+  {
+    "domain": "ai_platform",
+    "governance_risk_score": 48.72,
+    "risk_band": "medium"
+  },
+  {
+    "domain": "customer",
+    "governance_risk_score": 46.52,
+    "risk_band": "medium"
+  },
+  {
+    "domain": "executive",
+    "governance_risk_score": 55.42,
+    "risk_band": "high"
+  },
+  {
+    "domain": "finance",
+    "governance_risk_score": 52.09,
+    "risk_band": "high"
+  },
+  {
+    "domain": "governance",
+    "governance_risk_score": 52.6,
+    "risk_band": "high"
+  },
+  {
+    "domain": "operations",
+    "governance_risk_score": 51.843333333333334,
+    "risk_band": "high"
+  },
+  {
+    "domain": "risk",
+    "governance_risk_score": 48.864999999999995,
+    "risk_band": "medium"
+  }
+]

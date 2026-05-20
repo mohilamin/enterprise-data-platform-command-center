@@ -1,0 +1,6 @@
+severity_scores:
+  low: 25
+  medium: 50
+  high: 75
+  critical: 95
+correlation_window_hours: 24

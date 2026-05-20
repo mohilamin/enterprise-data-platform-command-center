@@ -1,0 +1,13 @@
+data_product_id,name,domain,ai_readiness_score,ai_ready_status
+DP-001,customer_360,customer,75.9,ready
+DP-002,revenue_metrics,finance,72.84,not_ready
+DP-003,fraud_detection_features,risk,76.54,ready
+DP-004,payment_risk_scoring,risk,74.16,not_ready
+DP-005,enterprise_rag_search,ai_platform,68.27,not_ready
+DP-006,support_intelligence,operations,68.61,not_ready
+DP-007,ai_governance_gateway,governance,70.58,not_ready
+DP-008,semantic_metrics_layer,governance,73.64,not_ready
+DP-009,data_quality_certification,governance,76.31,ready
+DP-010,pipeline_reliability_monitoring,operations,67.32,not_ready
+DP-011,supply_chain_risk_monitoring,operations,76.01,ready
+DP-012,executive_reporting_mart,executive,70.57,not_ready

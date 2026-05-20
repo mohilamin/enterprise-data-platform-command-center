@@ -1,0 +1,49 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action
+SIG-00001,data_quality_command_center,DP-001,quality_score,85.66,75,healthy,low,2026-05-20T21:21:43.489754+00:00,Customer Platform,Monitor.
+SIG-00002,data_quality_command_center,DP-001,freshness_status,69.52,75,degraded,high,2026-05-20T21:21:43.489765+00:00,Customer Platform,Investigate and remediate.
+SIG-00003,data_quality_command_center,DP-001,quarantine_rate,91.01,75,healthy,low,2026-05-20T21:21:43.489771+00:00,Customer Platform,Monitor.
+SIG-00004,data_quality_command_center,DP-001,ai_readiness_score,93.29,75,healthy,low,2026-05-20T21:21:43.489777+00:00,Customer Platform,Monitor.
+SIG-00005,data_quality_command_center,DP-002,quality_score,58.59,75,degraded,high,2026-05-20T21:21:43.489784+00:00,Finance Analytics,Investigate and remediate.
+SIG-00006,data_quality_command_center,DP-002,freshness_status,66.37,75,degraded,high,2026-05-20T21:21:43.489789+00:00,Finance Analytics,Investigate and remediate.
+SIG-00007,data_quality_command_center,DP-002,quarantine_rate,83.53,75,watch,medium,2026-05-20T21:21:43.489794+00:00,Finance Analytics,Monitor.
+SIG-00008,data_quality_command_center,DP-002,ai_readiness_score,78.21,75,watch,medium,2026-05-20T21:21:43.489799+00:00,Finance Analytics,Monitor.
+SIG-00009,data_quality_command_center,DP-003,quality_score,81.8,75,watch,medium,2026-05-20T21:21:43.489807+00:00,Fraud MLOps,Monitor.
+SIG-00010,data_quality_command_center,DP-003,freshness_status,71.76,75,watch,medium,2026-05-20T21:21:43.489812+00:00,Fraud MLOps,Monitor.
+SIG-00011,data_quality_command_center,DP-003,quarantine_rate,92.55,75,healthy,low,2026-05-20T21:21:43.489817+00:00,Fraud MLOps,Monitor.
+SIG-00012,data_quality_command_center,DP-003,ai_readiness_score,91.33,75,healthy,low,2026-05-20T21:21:43.489822+00:00,Fraud MLOps,Monitor.
+SIG-00013,data_quality_command_center,DP-004,quality_score,82.79,75,watch,medium,2026-05-20T21:21:43.489827+00:00,Payments Risk,Monitor.
+SIG-00014,data_quality_command_center,DP-004,freshness_status,95.53,75,healthy,low,2026-05-20T21:21:43.489832+00:00,Payments Risk,Monitor.
+SIG-00015,data_quality_command_center,DP-004,quarantine_rate,87.61,75,healthy,low,2026-05-20T21:21:43.489836+00:00,Payments Risk,Monitor.
+SIG-00016,data_quality_command_center,DP-004,ai_readiness_score,71.69,75,watch,medium,2026-05-20T21:21:43.489841+00:00,Payments Risk,Monitor.
+SIG-00017,data_quality_command_center,DP-005,quality_score,86.43,75,healthy,low,2026-05-20T21:21:43.489846+00:00,GenAI Platform,Monitor.
+SIG-00018,data_quality_command_center,DP-005,freshness_status,70.49,75,watch,medium,2026-05-20T21:21:43.489851+00:00,GenAI Platform,Monitor.
+SIG-00019,data_quality_command_center,DP-005,quarantine_rate,92.54,75,healthy,low,2026-05-20T21:21:43.489855+00:00,GenAI Platform,Monitor.
+SIG-00020,data_quality_command_center,DP-005,ai_readiness_score,81.4,75,watch,medium,2026-05-20T21:21:43.489860+00:00,GenAI Platform,Monitor.
+SIG-00021,data_quality_command_center,DP-006,quality_score,79.78,75,watch,medium,2026-05-20T21:21:43.489865+00:00,Support Analytics,Monitor.
+SIG-00022,data_quality_command_center,DP-006,freshness_status,73.83,75,watch,medium,2026-05-20T21:21:43.489870+00:00,Support Analytics,Monitor.
+SIG-00023,data_quality_command_center,DP-006,quarantine_rate,96.67,75,healthy,low,2026-05-20T21:21:43.489874+00:00,Support Analytics,Monitor.
+SIG-00024,data_quality_command_center,DP-006,ai_readiness_score,80.15,75,watch,medium,2026-05-20T21:21:43.489879+00:00,Support Analytics,Monitor.
+SIG-00025,data_quality_command_center,DP-007,quality_score,76.86,75,watch,medium,2026-05-20T21:21:43.489884+00:00,AI Governance,Monitor.
+SIG-00026,data_quality_command_center,DP-007,freshness_status,77.77,75,watch,medium,2026-05-20T21:21:43.489888+00:00,AI Governance,Monitor.
+SIG-00027,data_quality_command_center,DP-007,quarantine_rate,88.39,75,healthy,low,2026-05-20T21:21:43.489893+00:00,AI Governance,Monitor.
+SIG-00028,data_quality_command_center,DP-007,ai_readiness_score,86.39,75,healthy,low,2026-05-20T21:21:43.489897+00:00,AI Governance,Monitor.
+SIG-00029,data_quality_command_center,DP-008,quality_score,86.95,75,healthy,low,2026-05-20T21:21:43.489903+00:00,Analytics Engineering,Monitor.
+SIG-00030,data_quality_command_center,DP-008,freshness_status,87.17,75,healthy,low,2026-05-20T21:21:43.489907+00:00,Analytics Engineering,Monitor.
+SIG-00031,data_quality_command_center,DP-008,quarantine_rate,100.0,75,healthy,low,2026-05-20T21:21:43.489912+00:00,Analytics Engineering,Monitor.
+SIG-00032,data_quality_command_center,DP-008,ai_readiness_score,77.12,75,watch,medium,2026-05-20T21:21:43.489917+00:00,Analytics Engineering,Monitor.
+SIG-00033,data_quality_command_center,DP-009,quality_score,75.85,75,watch,medium,2026-05-20T21:21:43.489922+00:00,Data Quality,Monitor.
+SIG-00034,data_quality_command_center,DP-009,freshness_status,72.23,75,watch,medium,2026-05-20T21:21:43.489927+00:00,Data Quality,Monitor.
+SIG-00035,data_quality_command_center,DP-009,quarantine_rate,89.39,75,healthy,low,2026-05-20T21:21:43.489931+00:00,Data Quality,Monitor.
+SIG-00036,data_quality_command_center,DP-009,ai_readiness_score,95.55,75,healthy,low,2026-05-20T21:21:43.489935+00:00,Data Quality,Monitor.
+SIG-00037,data_quality_command_center,DP-010,quality_score,80.63,75,watch,medium,2026-05-20T21:21:43.489941+00:00,Data Platform,Monitor.
+SIG-00038,data_quality_command_center,DP-010,freshness_status,71.92,75,watch,medium,2026-05-20T21:21:43.489945+00:00,Data Platform,Monitor.
+SIG-00039,data_quality_command_center,DP-010,quarantine_rate,72.11,75,watch,medium,2026-05-20T21:21:43.489950+00:00,Data Platform,Monitor.
+SIG-00040,data_quality_command_center,DP-010,ai_readiness_score,89.81,75,healthy,low,2026-05-20T21:21:43.489954+00:00,Data Platform,Monitor.
+SIG-00041,data_quality_command_center,DP-011,quality_score,90.92,75,healthy,low,2026-05-20T21:21:43.489960+00:00,Supply Chain Analytics,Monitor.
+SIG-00042,data_quality_command_center,DP-011,freshness_status,88.52,75,healthy,low,2026-05-20T21:21:43.489964+00:00,Supply Chain Analytics,Monitor.
+SIG-00043,data_quality_command_center,DP-011,quarantine_rate,74.01,75,watch,medium,2026-05-20T21:21:43.489969+00:00,Supply Chain Analytics,Monitor.
+SIG-00044,data_quality_command_center,DP-011,ai_readiness_score,84.79,75,watch,medium,2026-05-20T21:21:43.489973+00:00,Supply Chain Analytics,Monitor.
+SIG-00045,data_quality_command_center,DP-012,quality_score,83.4,75,watch,medium,2026-05-20T21:21:43.489979+00:00,Executive Analytics,Monitor.
+SIG-00046,data_quality_command_center,DP-012,freshness_status,84.62,75,watch,medium,2026-05-20T21:21:43.489983+00:00,Executive Analytics,Monitor.
+SIG-00047,data_quality_command_center,DP-012,quarantine_rate,92.46,75,healthy,low,2026-05-20T21:21:43.489987+00:00,Executive Analytics,Monitor.
+SIG-00048,data_quality_command_center,DP-012,ai_readiness_score,84.68,75,watch,medium,2026-05-20T21:21:43.490054+00:00,Executive Analytics,Monitor.

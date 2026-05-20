@@ -1,0 +1,13 @@
+data_product_id,name,domain,owner,governance_risk_score,risk_band
+DP-001,customer_360,customer,Customer Platform,46.52,medium
+DP-002,revenue_metrics,finance,Finance Analytics,52.09,high
+DP-003,fraud_detection_features,risk,Fraud MLOps,49.08,medium
+DP-004,payment_risk_scoring,risk,Payments Risk,48.65,medium
+DP-005,enterprise_rag_search,ai_platform,GenAI Platform,48.72,medium
+DP-006,support_intelligence,operations,Support Analytics,54.46,high
+DP-007,ai_governance_gateway,governance,AI Governance,46.7,medium
+DP-008,semantic_metrics_layer,governance,Analytics Engineering,63.52,high
+DP-009,data_quality_certification,governance,Data Quality,47.58,medium
+DP-010,pipeline_reliability_monitoring,operations,Data Platform,54.57,high
+DP-011,supply_chain_risk_monitoring,operations,Supply Chain Analytics,46.5,medium
+DP-012,executive_reporting_mart,executive,Executive Analytics,55.42,high

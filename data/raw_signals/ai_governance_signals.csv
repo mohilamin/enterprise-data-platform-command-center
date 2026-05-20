@@ -1,0 +1,49 @@
+signal_id,system_name,data_product_id,metric_name,metric_value,threshold,status,severity,measured_at,owner,recommended_action
+SIG-00241,ai_data_governance_gateway,DP-001,governance_risk_score,24.0,75,healthy,low,2026-05-20T21:21:43.496268+00:00,Customer Platform,Monitor.
+SIG-00242,ai_data_governance_gateway,DP-001,policy_violations,29.7,75,watch,medium,2026-05-20T21:21:43.496275+00:00,Customer Platform,Monitor.
+SIG-00243,ai_data_governance_gateway,DP-001,least_privilege_score,80.83,75,watch,medium,2026-05-20T21:21:43.496281+00:00,Customer Platform,Monitor.
+SIG-00244,ai_data_governance_gateway,DP-001,blocked_request_rate,100.0,75,healthy,low,2026-05-20T21:21:43.496286+00:00,Customer Platform,Monitor.
+SIG-00245,ai_data_governance_gateway,DP-002,governance_risk_score,30.95,75,watch,medium,2026-05-20T21:21:43.496296+00:00,Finance Analytics,Monitor.
+SIG-00246,ai_data_governance_gateway,DP-002,policy_violations,3.98,75,healthy,low,2026-05-20T21:21:43.496301+00:00,Finance Analytics,Monitor.
+SIG-00247,ai_data_governance_gateway,DP-002,least_privilege_score,96.29,75,healthy,low,2026-05-20T21:21:43.496306+00:00,Finance Analytics,Monitor.
+SIG-00248,ai_data_governance_gateway,DP-002,blocked_request_rate,85.15,75,healthy,low,2026-05-20T21:21:43.496311+00:00,Finance Analytics,Monitor.
+SIG-00249,ai_data_governance_gateway,DP-003,governance_risk_score,0.0,75,healthy,low,2026-05-20T21:21:43.496316+00:00,Fraud MLOps,Monitor.
+SIG-00250,ai_data_governance_gateway,DP-003,policy_violations,32.18,75,watch,medium,2026-05-20T21:21:43.496322+00:00,Fraud MLOps,Monitor.
+SIG-00251,ai_data_governance_gateway,DP-003,least_privilege_score,68.67,75,degraded,high,2026-05-20T21:21:43.496326+00:00,Fraud MLOps,Investigate and remediate.
+SIG-00252,ai_data_governance_gateway,DP-003,blocked_request_rate,76.34,75,watch,medium,2026-05-20T21:21:43.496331+00:00,Fraud MLOps,Monitor.
+SIG-00253,ai_data_governance_gateway,DP-004,governance_risk_score,24.94,75,healthy,low,2026-05-20T21:21:43.496336+00:00,Payments Risk,Monitor.
+SIG-00254,ai_data_governance_gateway,DP-004,policy_violations,22.14,75,healthy,low,2026-05-20T21:21:43.496341+00:00,Payments Risk,Monitor.
+SIG-00255,ai_data_governance_gateway,DP-004,least_privilege_score,78.98,75,watch,medium,2026-05-20T21:21:43.496348+00:00,Payments Risk,Monitor.
+SIG-00256,ai_data_governance_gateway,DP-004,blocked_request_rate,83.83,75,watch,medium,2026-05-20T21:21:43.496353+00:00,Payments Risk,Monitor.
+SIG-00257,ai_data_governance_gateway,DP-005,governance_risk_score,0.0,75,healthy,low,2026-05-20T21:21:43.496359+00:00,GenAI Platform,Monitor.
+SIG-00258,ai_data_governance_gateway,DP-005,policy_violations,27.18,75,watch,medium,2026-05-20T21:21:43.496364+00:00,GenAI Platform,Monitor.
+SIG-00259,ai_data_governance_gateway,DP-005,least_privilege_score,85.55,75,healthy,low,2026-05-20T21:21:43.496368+00:00,GenAI Platform,Monitor.
+SIG-00260,ai_data_governance_gateway,DP-005,blocked_request_rate,77.54,75,watch,medium,2026-05-20T21:21:43.496373+00:00,GenAI Platform,Monitor.
+SIG-00261,ai_data_governance_gateway,DP-006,governance_risk_score,29.9,75,watch,medium,2026-05-20T21:21:43.496378+00:00,Support Analytics,Monitor.
+SIG-00262,ai_data_governance_gateway,DP-006,policy_violations,0.0,75,healthy,low,2026-05-20T21:21:43.496383+00:00,Support Analytics,Monitor.
+SIG-00263,ai_data_governance_gateway,DP-006,least_privilege_score,92.37,75,healthy,low,2026-05-20T21:21:43.496390+00:00,Support Analytics,Monitor.
+SIG-00264,ai_data_governance_gateway,DP-006,blocked_request_rate,78.06,75,watch,medium,2026-05-20T21:21:43.496395+00:00,Support Analytics,Monitor.
+SIG-00265,ai_data_governance_gateway,DP-007,governance_risk_score,5.05,75,healthy,low,2026-05-20T21:21:43.496401+00:00,AI Governance,Monitor.
+SIG-00266,ai_data_governance_gateway,DP-007,policy_violations,47.4,75,watch,medium,2026-05-20T21:21:43.496408+00:00,AI Governance,Monitor.
+SIG-00267,ai_data_governance_gateway,DP-007,least_privilege_score,88.99,75,healthy,low,2026-05-20T21:21:43.496413+00:00,AI Governance,Monitor.
+SIG-00268,ai_data_governance_gateway,DP-007,blocked_request_rate,100.0,75,healthy,low,2026-05-20T21:21:43.496417+00:00,AI Governance,Monitor.
+SIG-00269,ai_data_governance_gateway,DP-008,governance_risk_score,31.9,75,watch,medium,2026-05-20T21:21:43.496423+00:00,Analytics Engineering,Monitor.
+SIG-00270,ai_data_governance_gateway,DP-008,policy_violations,31.9,75,watch,medium,2026-05-20T21:21:43.496428+00:00,Analytics Engineering,Monitor.
+SIG-00271,ai_data_governance_gateway,DP-008,least_privilege_score,91.94,75,healthy,low,2026-05-20T21:21:43.496432+00:00,Analytics Engineering,Monitor.
+SIG-00272,ai_data_governance_gateway,DP-008,blocked_request_rate,78.44,75,watch,medium,2026-05-20T21:21:43.496437+00:00,Analytics Engineering,Monitor.
+SIG-00273,ai_data_governance_gateway,DP-009,governance_risk_score,11.45,75,healthy,low,2026-05-20T21:21:43.496443+00:00,Data Quality,Monitor.
+SIG-00274,ai_data_governance_gateway,DP-009,policy_violations,2.79,75,healthy,low,2026-05-20T21:21:43.496448+00:00,Data Quality,Monitor.
+SIG-00275,ai_data_governance_gateway,DP-009,least_privilege_score,91.39,75,healthy,low,2026-05-20T21:21:43.496452+00:00,Data Quality,Monitor.
+SIG-00276,ai_data_governance_gateway,DP-009,blocked_request_rate,79.71,75,watch,medium,2026-05-20T21:21:43.496457+00:00,Data Quality,Monitor.
+SIG-00277,ai_data_governance_gateway,DP-010,governance_risk_score,37.52,75,watch,medium,2026-05-20T21:21:43.496467+00:00,Data Platform,Monitor.
+SIG-00278,ai_data_governance_gateway,DP-010,policy_violations,37.15,75,watch,medium,2026-05-20T21:21:43.496474+00:00,Data Platform,Monitor.
+SIG-00279,ai_data_governance_gateway,DP-010,least_privilege_score,63.14,75,degraded,high,2026-05-20T21:21:43.496479+00:00,Data Platform,Investigate and remediate.
+SIG-00280,ai_data_governance_gateway,DP-010,blocked_request_rate,81.2,75,watch,medium,2026-05-20T21:21:43.496483+00:00,Data Platform,Monitor.
+SIG-00281,ai_data_governance_gateway,DP-011,governance_risk_score,14.67,75,healthy,low,2026-05-20T21:21:43.496489+00:00,Supply Chain Analytics,Monitor.
+SIG-00282,ai_data_governance_gateway,DP-011,policy_violations,35.48,75,watch,medium,2026-05-20T21:21:43.496494+00:00,Supply Chain Analytics,Monitor.
+SIG-00283,ai_data_governance_gateway,DP-011,least_privilege_score,73.61,75,watch,medium,2026-05-20T21:21:43.496498+00:00,Supply Chain Analytics,Monitor.
+SIG-00284,ai_data_governance_gateway,DP-011,blocked_request_rate,69.84,75,degraded,high,2026-05-20T21:21:43.496503+00:00,Supply Chain Analytics,Investigate and remediate.
+SIG-00285,ai_data_governance_gateway,DP-012,governance_risk_score,2.1,75,healthy,low,2026-05-20T21:21:43.496509+00:00,Executive Analytics,Monitor.
+SIG-00286,ai_data_governance_gateway,DP-012,policy_violations,29.62,75,watch,medium,2026-05-20T21:21:43.496517+00:00,Executive Analytics,Monitor.
+SIG-00287,ai_data_governance_gateway,DP-012,least_privilege_score,95.86,75,healthy,low,2026-05-20T21:21:43.496521+00:00,Executive Analytics,Monitor.
+SIG-00288,ai_data_governance_gateway,DP-012,blocked_request_rate,89.31,75,healthy,low,2026-05-20T21:21:43.496526+00:00,Executive Analytics,Monitor.

@@ -1,0 +1,8 @@
+project_name: Enterprise Data Platform Command Center
+random_seed: 42
+warehouse_path: data/warehouse/enterprise_command_center.duckdb
+health_thresholds:
+  healthy: 85
+  watch: 70
+  degraded: 50
+  critical: 0
