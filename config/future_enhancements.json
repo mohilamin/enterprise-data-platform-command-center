@@ -1,0 +1,31 @@
+{
+  "project_name": "enterprise-data-platform-command-center",
+  "enhancement_theme": "enterprise platform command center",
+  "future_enhancements": [
+    {
+      "name": "real platform telemetry connectors",
+      "status": "planned",
+      "why_it_matters": "Moves the local prototype closer to an enterprise implementation path."
+    },
+    {
+      "name": "catalog/lineage sync",
+      "status": "planned",
+      "why_it_matters": "Moves the local prototype closer to an enterprise implementation path."
+    },
+    {
+      "name": "alert routing",
+      "status": "planned",
+      "why_it_matters": "Moves the local prototype closer to an enterprise implementation path."
+    },
+    {
+      "name": "warehouse deployment",
+      "status": "planned",
+      "why_it_matters": "Moves the local prototype closer to an enterprise implementation path."
+    },
+    {
+      "name": "role-aware command center",
+      "status": "planned",
+      "why_it_matters": "Moves the local prototype closer to an enterprise implementation path."
+    }
+  ]
+}
